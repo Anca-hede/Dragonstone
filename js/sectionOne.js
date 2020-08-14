@@ -4,7 +4,7 @@ function room11(){
     
     //Change the Text
     document.getElementById("story").innerHTML = 
-    "You are at the entrance of the magical forest of Qohor in the land of Alcazar. Your mission is to safely pass thorough the forest, up to Dragonstone Castle where you need to find the magical gemstone which restores the peace in the land of Alcazar. You will encounter magical creatures and objects along the way, but we very carrefull, some will come in your help, others to test your powers! To enter, proceed East <br>"
+    "You are at the entrance of the magical forest of Qohor in the land of Alcazar. Your mission is to safely pass through the forest, up to Dragonstone Castle where you need to find the magical gemstone which restores the peace in the land of Alcazar. You will encounter magical creatures and objects along the way, but be very carrefull, some will come in your help, others to test your powers! To enter, proceed East <br>"
     //Change the Pic
     thepic.src = "images/pic01.jpg"
     //Remove old Links

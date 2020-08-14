@@ -6,7 +6,7 @@ function room21(){
     document.getElementById("story").innerHTML = 
     "You are now in the middle of the forest. You can go East"
     //Change the Pic
-    thepic.src = "images/mainForest.jpg"
+    thepic.src = "images/MainForest.jpg"
     //Remove old Links
     removeEvents();
     //Add new Links

@@ -7,7 +7,7 @@ function wrongWay(){
     alert("That is not a way you can go");
 }
 function gameOver(){
-    alert("Congratulations! You have won the Precious Gemstone and completed the game!");
+    alert("Congratulations! You found the Precious Gemstone and successfully completed the game!");
 }
 
 //Starting room function call below

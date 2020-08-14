@@ -4,7 +4,7 @@ function room41 (){
     
     //Change the Text
     document.getElementById("story").innerHTML = 
-    "You are in a In the stillness of the moonlit hall of the night you find yourself looking down at the ghost of the lady of the night. On the map you are instructed to follow her path."
+    "You stand in silence in the moonlit hall. You find yourself looking down at the ghost of the ‘Lady of the Night’. You find a map on the small table beside you. You are instructed to ‘follow her path’"
     //Change the Pic
     thepic.src = "images/ghosthall.jpg"
     //Remove old Links
@@ -20,7 +20,7 @@ function room42 (){
     
     //Change the Text
     document.getElementById("story").innerHTML = 
-    "Dangers looms from the book of magic. You are instructed to ‘take a step back'"
+    "You find yourself in a small corridor. Dangers looms from the book of magic. You are instructed to ‘take a step back'."
     //Change the Pic
     thepic.src = "images/books.jpg"
     //Remove old Links
@@ -84,7 +84,7 @@ function room46(){
     
     //Change the Text
     document.getElementById("story").innerHTML = 
-    "You find yourself in the gallery and notice Shakespeare on the left and the ghost of the lady in black on the right. She congratulates you and prepares the gemstone. The room turns warm and glows bright. You now believe in miracles, realms of fantasy, ghosts and entities in the land of Alcazar. Healing power starts to heal Alcazar back to its former glory. You have now inherited the castle."
+    "You find yourself in the gallery and notice Shakespeare on the left and the ghost of the ‘Lady in Black’ on the right. She congratulates you and prepares the gemstone. The room turns warm and glows bright. You now believe in miracles, realms of fantasy, ghosts and entities in the land of Alcazar. Healing power starts to heal Alcazar back to its former glory. You have now inherited the castle."
     //Change the Pic
     thepic.src = "images/ghostlady.jpg"
     //Remove old Links

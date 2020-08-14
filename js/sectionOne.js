@@ -4,7 +4,7 @@ function room11(){
     
     //Change the Text
     document.getElementById("story").innerHTML = 
-    "You are at the entrance of the magical forest of Qohor in the land of Alcazar. Your mission is to safely pass through the forest, up to Dragonstone Castle where you need to find the magical gemstone which restores the peace in the land of Alcazar. You will encounter magical creatures and objects along the way, but be very carrefull, some will come in your help, others to test your powers! To enter, proceed East <br>"
+    "You have arrived at the entrance of the magical forest of Qohor, in the land of Alcazar. This mystical woodland, tenebrous and curious alike, is filled with all manner of creatures, those dead and alive, those winged and tailed, and those subhuman. Your journey will be a perilous one, and will test your strength, your aptitude and most of all, your wits. But the most precious of gems awaits you, in a magnificent castle worth more than any treasure. To enter, proceed East. But do not enter heedlessly, for you may never return. <br>"
     //Change the Pic
     thepic.src = "images/pic01.jpg"
     //Remove old Links
@@ -20,7 +20,7 @@ function room12(){
     
     //Change the Text
     document.getElementById("story").innerHTML =
-    "You come across a Seer called 'The One Eyed Raven', who is making his way through the forest to gather supplies for his potions. The Seer gifts you with a magical potion that will allow you to see in the dark. There is an exit to the East."
+    "You come across a Seer called 'The One Eyed Raven', who is making his way through the forest to gather supplies for his potions. The Seer gifts you a magical potion that will allow you to see in the dark. There is an exit to the East."
     //Change the Pic
     thepic.src = "images/oneeyedraven.jpg"
     
